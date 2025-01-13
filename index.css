@@ -1,0 +1,28 @@
+.highlight:hover {
+  background-color: white;
+  font-size: 38px;
+  cursor: pointer;
+}
+.bigtext {
+  font-size:30px;
+  text-align: center;
+  background-color: #c6db7a;
+  font-family: "Lucida Console", monospace;
+  width: 460px;
+  height:150px;
+}
+.sidelines {
+  border:10px solid #c6db7a;
+}
+.smalltext {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+.whitebox {
+  padding: 20px;
+  background-color: #ffffff;
+}
+.greenbox {
+  padding: 60px;
+  background-color: #c6db7a;
+}
