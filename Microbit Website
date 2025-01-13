@@ -1,0 +1,53 @@
+<html>
+
+<head>
+<link rel="stylesheet" href="index.css">
+</head>
+
+    <title>Ewaste Awareness</title>
+    
+<body>
+
+  <table class="sidelines">
+  <tr>
+    <td colspan=3> <img src="New Website Banner.png" width=1385 height=530> </td>
+  </tr>
+  <tr>
+    <td>
+        <center><a href=index.html><button class="bigtext highlight box1">Homepage</button></a></center>
+    </td>
+    <td>
+    <center>
+        <a href=page2.html>
+            <button class="bigtext highlight box1">Environmental Impact</button>
+        </a>
+    </center>
+    </td>
+    <td> 
+    <center>
+        <a href=page3.html>
+            <button class="bigtext highlight box1">How to Help</button>
+        </a>
+    </center>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=3 class="whitebox bigtext" >Welcome
+        <p class="smalltext">This website provides information about the environmental consequences of computer devices and steps you can take to limit your impact. It provides the facts and the reality of our world because of our everyday actions.
+        </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 class="greenbox bigtext">Brief Introduction
+        <p class="smalltext">Computer devices are one of the biggest contributors to greenhouse gas emissions and e-waste as they contain multiple toxic chemicals. In just 2019 alone we have generated over 53 million tons of e-waste that note only harms the environment but also human health.Their very existence is a form of greenhouse gas emission as the production and disposal of these devices require a lot of energy and valuable materials. The usage of computers is also damaging to the environment as you have to maintain, manage, and upgrade networks and servers to keep the the computers running. 
+        </p>
+    </td>
+    <td>
+        <img src="ewaste.png" width =460 height=300>
+    </td>
+  </tr>
+  </table>
+
+</body>
+
+</html>
